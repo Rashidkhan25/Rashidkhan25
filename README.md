@@ -1,6 +1,6 @@
 <h2>Hi, I'm Rashid Khan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h2>
 
-<img src="YOUR_BANNER_IMAGE_LINK" alt="Profile Banner" width="100%">
+<img src="[YOUR_BANNER_IMAGE_LINK](https://github.com/Rashidkhan25/Rashidkhan25/blob/b41d0071e6bd8e1e274710cc664f8c9cea9038cb/header.jpeg)" alt="Profile Banner" width="100%">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=30&width=600&lines=🚀+MERN-Stack+Developer;💻+Coding+Enthusiast;🎉+Welcome+to+my+GitHub+Page)
 
@@ -60,7 +60,7 @@ I'm a software engineering student passionate about frontend development and ope
 
 ### Connect with Me
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="LinkedIn Logo" width="32">](YOUR_LINKEDIN_LINK) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram Logo" width="32">](YOUR_INSTAGRAM_LINK) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="32">](Rashidkhan25) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail Logo" width="32">](mailto:khanrashidejaz@gmail.com) |
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="LinkedIn Logo" width="32">](https://www.linkedin.com/in/rashid-ejaz-khan/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram Logo" width="32">](https://www.instagram.com/_rashid._.khan__/) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="32">](https://github.com/Rashidkhan25) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail Logo" width="32">](mailto:khanrashidejaz@gmail.com) |
 |:-----------------------------------------:|:-----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rashidkhan25&color=blue&style=flat&label=Profile+Views&base=1000)
