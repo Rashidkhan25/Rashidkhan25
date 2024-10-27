@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Rashid Khan</h1>
+<h1 align="center">Hi,</h1>
+<h1 align="center"> I'm Rashid Khan</h1>
 
 ![Profile Banner](https://your-image-url.com/banner.png)
 
