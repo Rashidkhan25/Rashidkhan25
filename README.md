@@ -1,6 +1,6 @@
 <h2>Hi, I'm Rashid Khan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h2>
 
-<img src="[YOUR_BANNER_IMAGE_LINK](https://github.com/Rashidkhan25/Rashidkhan25/blob/b41d0071e6bd8e1e274710cc664f8c9cea9038cb/header.jpeg)" alt="Profile Banner" width="100%">
+<img src="https://raw.githubusercontent.com/Rashidkhan25/Rashidkhan25/refs/heads/main/header.jpeg" alt="Profile Banner" width="100%">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=30&width=600&lines=🚀+MERN-Stack+Developer;💻+Coding+Enthusiast;🎉+Welcome+to+my+GitHub+Page)
 
@@ -12,7 +12,7 @@ I'm a software engineering student passionate about frontend development and ope
 <a href="https://github.com/sponsors/Rashidkhan25"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/rashid-ejaz-khan/">LinkedIn</a> 
 - Tinkering with interactions on <a href="#">Portfolio</a> 
-- Let's work together!! <a href="https://paa-rth.vercel.app/assets/cv.pdf">My Resume</a> 
+- Let's work together!! <a href="https://drive.google.com/file/d/1Iwc3JCLAEYSZm4GqLrK5yi4dVfnIMN7E/view?usp=sharing">My Resume</a> 
 
 ---
 
